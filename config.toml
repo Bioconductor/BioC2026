@@ -30,11 +30,11 @@ pagerSize = 50
     url  = "/schedule/"
     weight = 20
 
-[[menu.main]]
-    identifier="Workshops"
-    name = "Workshops & demos"
-    url  = "/workshops/"
-    weight = 21
+# [[menu.main]]
+#     identifier="Workshops"
+#     name = "Workshops & demos"
+#     url  = "/workshops/"
+#     weight = 21
 
 #[[menu.main]]
 #    identifier="Package demos"
