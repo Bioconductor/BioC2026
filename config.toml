@@ -11,7 +11,8 @@ defaultContentLanguage = "en"
 # googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 50
+[pagination]
+pagerSize = 50
 
 [menu]
 
@@ -123,9 +124,9 @@ paginate = 50
 
 [[menu.topbar]]
     weight = 3
-    name = "Twitter"
-    url = "https://twitter.com/Bioconductor"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    name = "Mastodon"
+    url = "https://genomic.social/@bioconductor"
+    pre = "<i class='fab fa-2x fa-mastodon'></i>"
 
 [[menu.topbar]]
     weight = 4
@@ -135,9 +136,15 @@ paginate = 50
 
 [[menu.topbar]]
     weight = 5
-    name = "Slack"
-    url = "https://slack.bioconductor.org/"
-    pre = "<i class='fab fa-2x fa-slack'></i>"
+    name = "Zulip"
+    url = "https://community-bioc.zulipchat.com"
+    pre = "<i class='fas fa-2x fa-users'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/bioconductor"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -192,7 +199,7 @@ paginate = 50
       """
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
