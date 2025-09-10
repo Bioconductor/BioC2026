@@ -3,7 +3,7 @@ title = "Sponsors"
 description = "Sponsors"
 +++
 
-{{< sponsors >}}
+<!-- {{< sponsors >}} -->
 
 <!--
 |       |
@@ -149,14 +149,14 @@ description = "Sponsors"
 &nbsp;
 
 ## Sponsor Opportunities
-Bioconductor is a non-profit organization that supports one of the most widely used data analysis tools in genomics. Bioconductor was downloaded by [890,462 downloads (distinct IPs)](http://www.bioconductor.org/packages/stats/bioc/index.html) in 2021. Software packages are contributed by more than 1,200 community developers worldwide, totaling over half-million downloads per year.  
+Bioconductor is a non-profit organization that supports one of the most widely used data analysis tools in genomics. Bioconductor was downloaded by [1,139,800 downloads (distinct IPs)](http://www.bioconductor.org/packages/stats/bioc/index.html) in 2021. Software packages are contributed by more than 1,200 community developers worldwide, totaling over half-million downloads per year.  
 
 The conference is unique in that in addition to talks and poster session, the meeting features 20+ workshops which provide hands-on learning in Bioconductor.  All conference materials (videos, slides, talks, posters, workshops) are published online such that the conference provides a rich resource for learning Bioconductor. 
 
 
-> Interested in sponsoring this conference? Please contact <sponsorship@bioconductor.org>
+Interested in sponsoring this conference? Please contact sponsorship@bioconductor.org
 
-**Your sponsorship will help increase diversity and representation at Bioconductor 2022** by:
+Your sponsorship will help increase diversity and representation at Bioconductor 2026 by:
 
 - Keeping registration costs affordable for academic participants and trainees.  
 - Provide high quality hybrid/virtual programming and post-production and sharing of videos and conference materials
@@ -196,20 +196,11 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 ## Approximate conference demographics
 
-- Bioc2021 was virtual and was attended by 500+ participants from the global Bioconductor bioinformatics community. 
+- Bioc2024 was hybrid and was attended by 350+ participants from the global Bioconductor bioinformatics community. (In 2025, Bioconductor co-hosted a conference with the Galaxy community).
 
-- Academic (50%), corporate (e.g., pharmaceutical; 30%);
-  not-for-profit (e.g., Cancer Center; 15%), and government (5%)
-  participants.
+- Faculty (13%), staff (22%), government (1.5%), and corporate (9%); postdocs (17%) and students (37.5%)
 
-- Lab / group leaders (10%), postdoctoral researchers (40%),
-  bioinformatics core staff (20%), and graduate students (30%).
-
-- PhD (60%), MS (20%), and other degrees.
-
-- Thought leaders contributing to leading-edge methodological
-  development, hands-on practitioners incorporating _R_ / _Bioconductor_ into robust work flows, and researchers developing
-  bespoke solutions.
+- Thought leaders contributing to leading-edge methodological development, hands-on practitioners incorporating R / Bioconductor into robust work flows, and researchers developing bespoke solutions.
   
 -  Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone and this is detailed in our conference [code of conduct](https://bioc2022.bioconductor.org/code/). 
  
