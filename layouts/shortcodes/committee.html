@@ -1,14 +1,20 @@
 <div class="container-fluid">
   <div class="row">
-    {{ range .Site.Data.organizers.committee}}
+  {{- $len := len .Site.Data.organizers.committee -}}
+  {{- $index := 0 -}}
+  {{- range .Site.Data.organizers.committee -}}
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 text-center">
       <div class="panel panel-default">
         <div class="panel-body">
-          <img src="{{.image}}" class="img-responsive center-block"> 
-          {{.name}}
+          <img src="{{ .image }}" class="img-responsive center-block">
+          {{ .name }}
         </div>
       </div>
     </div>
-    {{end}}
+    {{- $index = add $index 1 -}}
+    {{- if and (ne $index $len) (eq (mod $index 4) 0) -}}
+      </div><div class="row">
+    {{- end -}}
+  {{- end -}}
   </div>
 </div>
