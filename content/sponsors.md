@@ -171,7 +171,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - Poster session will be named after these donors. 
 - Highest recognition, using your logo, in the online and print promotional and scheduling material. 
 - Up to 8 free registrations.
-- A thank-you tweet including your preferred Twitter handle. 
+- A thank-you post including your preferred social media handle. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
 - A virtual table during the poster session and social hours*
 
@@ -180,7 +180,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 - Top recognition, using your logo, in the online and print conference promotional and scheduling material. 
 - Up to 5 free registrations. 
-- A thank-you tweet including your preferred Twitter handle. 
+- A thank-you post including your preferred social media handle. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
 - A virtual table during the poster session and social hours*
 
@@ -188,7 +188,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 - Sponsor names will be listed in the online and print promotional and scheduling material.
 - Academic discount on 2 registrations.
-- A thank-you tweet including your preferred Twitter handle.
+- A thank-you post including your preferred social media handle.
 
 * Bioconductor will follow local and state guidelines and will only host in-person events if it is safe to do so. 
 
