@@ -199,7 +199,7 @@ pagerSize = 50
       """
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:contentbasename/"
+    blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -243,6 +243,13 @@ pagerSize = 50
     # For more informtion take a look at the README.
     title = "Speakers"
     # subtitle = "Confirmed speakers"
+
+[params.scholarship]
+    enable = true
+    title = "BioC Scholarship Fund"
+    text = "Support the Bioconductor Scholarship Fund to help sustain critical infrastructure, improve documentation, and expand access to our community. Your contribution directly enables conference travel support and training opportunities for researchers who might not otherwise be able to participate."
+    link_url = "https://numfocus.org/donate-for-bioconductor"
+    link_text = "Donate Now"
 
 [params.see_more]
     enable = false
