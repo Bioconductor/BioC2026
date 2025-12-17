@@ -11,13 +11,9 @@
                   {{ .Site.Params.scholarship.text | markdownify }}
                 </p>
                 <p class="text-center">
-                    {{ with .Site.Params.scholarship.link_url }}
-                    <a href="{{ . }}" class="btn btn-template-main btn-lg" target="_blank" rel="noopener">
-                    {{ end }}
-                        {{ with .Site.Params.scholarship.link_text }}
-                        {{ . }}
-                        {{ end }}
-                    {{ with .Site.Params.scholarship.link_url }}
+                    {{ if and .Site.Params.scholarship.link_url .Site.Params.scholarship.link_text }}
+                    <a href="{{ .Site.Params.scholarship.link_url }}" class="btn btn-template-main btn-lg" target="_blank" rel="noopener noreferrer">
+                        {{ .Site.Params.scholarship.link_text }}
                     </a>
                     {{ end }}
                 </p>
