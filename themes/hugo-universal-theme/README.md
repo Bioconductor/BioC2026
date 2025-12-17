@@ -136,7 +136,7 @@ Example configuration:
 [params]
     ...
     enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "YOUR_GOOGLE_MAPS_API_KEY"
 
     latitude = "-12.043333"
     longitude = "-77.028333"
