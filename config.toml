@@ -244,6 +244,10 @@ pagerSize = 50
     title = "Speakers"
     # subtitle = "Confirmed speakers"
 
+[params.scholarship]
+    enable = true
+    title = "BioC Scholarship Fund"
+
 [params.see_more]
     enable = false
     icon = "far fa-file-alt"

@@ -1,0 +1,27 @@
+{{ if isset .Site.Params "scholarship" }}
+{{ if .Site.Params.scholarship.enable }}
+{{ if .Site.Data.scholarship }}
+<section id="scholarship" class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.scholarship.title }}</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <p class="lead text-center">
+                            {{ .Site.Data.scholarship.text }}
+                        </p>
+                        <p class="text-center">
+                            <a href="{{ .Site.Data.scholarship.link }}" class="btn btn-template-main">Donate Now</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
