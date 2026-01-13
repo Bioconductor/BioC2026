@@ -166,31 +166,36 @@ Your sponsorship will help increase diversity and representation at Bioconductor
 
 Three levels of sponsorship are available. Sponsors of all levels may present a poster highlighting the scientific interests of their organization in the poster sessions.
 
-**Platinum: $10,000 USD**
+### Platinum — **$10,000 USD**
+- Highest recognition, featuring your logo in all online and print promotional and scheduling materials.
+- Up to **6 free registrations**.
+- Platinum-level promotion of your company on Bioconductor social media platforms leading up to and during the conference.
+- Opportunity to provide a **15-second video** to be shown to all attendees at the beginning of a session and posted on:
+  - Bioconductor YouTube (5.6k followers)
+  - Mastodon (1.1k followers)
+  - LinkedIn (500+ followers)
+- A **live table** during the poster sessions and social events.
+- Option to sponsor:
+  - A poster session  
+  - A social or networking event  
+  - Catering  
+  - Inclusion efforts by funding travel scholarships
 
-- Poster session will be named after these donors. 
-- Highest recognition, using your logo, in the online and print promotional and scheduling material. 
-- Up to 8 free registrations.
-- A thank-you post including your preferred social media handle. 
-- A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A virtual table during the poster session and social hours*
+---
 
+### Gold — **$5,000 USD**
+- Top recognition, featuring your logo in online and print conference promotional and scheduling materials.
+- Up to **3 free registrations**.
+- Gold-level promotion of your company on Bioconductor social media platforms leading up to and during the conference.
+- **One social media post per month** (May, June, July) up to and during the conference.
+- A **live table** during the poster session.
 
-**Gold: $5,000 USD**
+---
 
-- Top recognition, using your logo, in the online and print conference promotional and scheduling material. 
-- Up to 5 free registrations. 
-- A thank-you post including your preferred social media handle. 
-- A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A virtual table during the poster session and social hours*
-
-**Silver: $1,000 USD**
-
-- Sponsor names will be listed in the online and print promotional and scheduling material.
-- Academic discount on 2 registrations.
-- A thank-you post including your preferred social media handle.
-
-* Bioconductor will follow local and state guidelines and will only host in-person events if it is safe to do so. 
+### Silver — **$1,000 USD**
+- Sponsor names listed in online and print promotional and scheduling materials.
+- **Academic discount** on **2 registrations**.
+- A **thank-you social media post** including your preferred social media handle.
 
 ***
 

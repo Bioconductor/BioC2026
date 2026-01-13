@@ -3,75 +3,47 @@ title = "Registration"
 description = "Registration"
 +++
 
-### Coming soon
+## Conference Location and Dates
 
-<!--
-### Registration is now open for the BioC22 conference. You have two ticket options:
+The conference will be held at the **Fred Hutch Cancer Center** in **Seattle, WA**, from **August 10–12, 2026**.
 
-1. Tickets for virtual attendance are now available on Eventbrite at https://bioc2022.eventbrite.com.
+---
 
-2. Tickets for in-person attendance of the conference in Seattle, Washington (USA) are currently limited due to COVID capacity limits at the venue. As of 5/31/22, we have 20 in-person tickets available. You can register at https://bioc2022.eventbrite.com.
-If tickets have sold out, please email conference@bioconductor.org to be placed on a wait list. 
-Both tickets provide access to all conference sessions. We will have a variety of in-person and virtual speakers. Anyone who does not get an in-person ticket will be able to secure a virtual ticket.
+## Ticket Types (USD)
 
-#### Registration cost
+### In-Person Registration
 
-- $400 academic in person
-- $250 student in person
-- $50 academic virtual
-- $10 student virtual
--->
+#### Early Registration (through **June 15, 2026**)
+- **In-Person Student or Postdoc:** $200  
+- **In-Person Faculty, Staff, and Government:** $325  
+- **In-Person Industry:** $500  
 
-<!--
-If you require scholarship assistance to attend the conference virtually, please complete this form: https://forms.gle/YotNvDzx8qWjnQ3D7. Scholarships for virtual attendance will be assessed on a rolling basis. 
+#### Regular Registration (**June 15–July 27, 2026**)
+- **In-Person Student or Postdoc:** $275  
+- **In-Person Faculty, Staff, and Government:** $400  
+- **In-Person Industry:** $650  
 
-We are no longer accepting requests for in-person scholarships. 
--->
+**In-person tickets include:**
+- Access to all in-person sessions and events  
+- Access to the conference Slack for online networking  
+- Breakfast and lunch provided on all three days  
 
-<!--
-## [Registration to the virtual Bioc2021 conference is now open!](https://www.airmeet.com/e/3124e6e0-8b3d-11eb-adfc-b1c12ad96800)
+---
 
-[Registration link](https://www.airmeet.com/e/3124e6e0-8b3d-11eb-adfc-b1c12ad96800)
+### Virtual Registration
+- **Virtual Academic:** $20  
+- **Virtual Industry:** $75  
 
-The registration fee includes access to the virtual platform for the conference, talks, workshops, Q&As following each session, network opportunities. This fee helps us cover the cost of the platform and other associated costs for the conference.
+**Virtual tickets include:**
+- Real-time access to select sessions via live stream (before public release)  
+- Access to the conference Slack channel for online networking  
 
-If you are currently experiencing financial hardship or reduced funding, please apply for a [BioC2021 Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSeOE8FfcewYccR37o5dtC_tUjTCE5cKbyVMC_68uMuC3CgQbA/viewform?usp=pp_url) for a waiver on the registration fee.
+> **Note:** Not all sessions will be live-streamed. The schedule will indicate which sessions are available for virtual viewing.
 
-Bioconductor is offering a limited number of awards to cover caregiving expenses for BioC2021 attendees. If you need assistance with childcare or eldercare during the course of the conference, please [apply here](https://forms.gle/8sUSgNwKFDFEZii58). 
+---
 
-## Fees
+## Refund Policy
 
-| Rate                                                         | &nbsp;                            | Price (USD) |
-|--------------------------------------------------------------|-----------------------------------|-------------|
-| Professional: Faculty, staff, government, or corporate | &nbsp; &nbsp; &nbsp;              | $50.00      |
-| Trainee: Student, Postdoc   | &nbsp; &nbsp; &nbsp; | $10.00  |
-
-## FAQ
-
-- What if I am in a different time zone?
-    - We are curating a schedule that will accommodate most time zones throughout the world, but we cannot guarantee that the session you want to attend will be at a convenient time for you. However, all sessions are recorded and will be available for viewing roughly two hours after the session takes place. 
-
-- Are there group discounts?
-    - We do not offer group discounts.
-
-- Can I register multiple people at the same time?
-    - At this time each person has to register individually. 
-
-- I cannot afford the registration fee. What are my options?
-    - You can apply for a scholarship [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeOE8FfcewYccR37o5dtC_tUjTCE5cKbyVMC_68uMuC3CgQbA/viewform?usp=pp_url), and we will consider those cases for a waived fee admission. 
-
-## Cancellation Policy
-
-Bioconductor is a non-profit organization, and conferences are designed only to break even every year. As a result we are generally unable to offer individual refunds.
--->
-
-
-<!--
-All time is US Eastern Time. All sessions include Q&A time.
-
-| Time                   |               | Track      |               | Name                     |
-|:----------------------:|---------------|------------|---------------|--------------------------|
-| **Monday, 7/27/2020**  | &nbsp; &nbsp; |            | &nbsp; &nbsp; |                          |
-| 8:00 AM                | &nbsp; &nbsp; | Community  | &nbsp; &nbsp; | Open breakfast meeting   |
--->
-
+- Tickets are refundable subject to a **15% service fee**.
+- **In-person ticket refund deadline:** **Monday, July 27, 2026, at 5:00 pm ET**
+- **Virtual ticket refund deadline:** **Friday, August 7, 2026, at 5:00 pm ET**

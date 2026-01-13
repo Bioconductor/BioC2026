@@ -61,12 +61,12 @@ pagerSize = 50
     url  = "/submissions/"
     weight = 30
 
-# [[menu.main]]
-#    identifier="registration"
-#    parent = "about"
-#    name = "Registration"
-#    url  = "/registration/"
-#    weight = 55
+[[menu.main]]
+   identifier="registration"
+#   parent = "about"
+   name = "Registration"
+   url  = "/registration/"
+   weight = 55
 
 #[[menu.main]]
 #    identifier="workshops"
