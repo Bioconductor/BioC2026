@@ -3,6 +3,8 @@ title = "Registration"
 description = "Registration"
 +++
 
+## [Registration is open!](https://ti.to/nf-projects/bioc2026)
+
 ## Conference Location and Dates
 
 The conference will be held at the **Fred Hutch Cancer Center** in **Seattle, WA**, from **August 10–12, 2026**.

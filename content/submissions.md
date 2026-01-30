@@ -3,6 +3,8 @@ title = "Submissions"
 description = "Submissions"
 +++
 
+## [Submission is open!](https://openreview.net/group?id=bioconductor.org/BioC/2026/Conference)
+
 ## Important Dates
 
 - **February 1, 2026**: Call for abstracts opens  
