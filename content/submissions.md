@@ -43,6 +43,6 @@ description = "Submissions"
   - Opportunity to answer questions and discuss design decisions  
 - **Intent:** A drop-in, interactive experience rather than a scheduled talk.
 
-### Birds-of-a-Feather Session
+<!-- ### Birds-of-a-Feather Session
 - **Format:** Free-form, organizer-led interactive discussion  
-- **Focus:** Topics relevant to the Bioconductor community.
+- **Focus:** Topics relevant to the Bioconductor community. -->
