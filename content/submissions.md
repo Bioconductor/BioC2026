@@ -10,7 +10,7 @@ description = "Submissions"
 - **February 1, 2026**: Call for abstracts opens  
 - **February 27, 2026**: Deadline to create an OpenReview account to submit abstracts  
 - **March 13, 2026**: Call for abstracts closes at **11:59 pm Eastern Time**  
-- **April 1, 2026**: Notification of abstract decision  
+- **April 10, 2026**: Notification of abstract decision  
 - **August 10–12, 2026**: **BioC2026 Conference**
 
 > **Note:** The OpenReview system requires submitters to create an account at least two weeks before the submission deadline. Please register by **February 27, 2026** to avoid last-minute issues.
