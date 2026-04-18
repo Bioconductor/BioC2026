@@ -12,7 +12,7 @@ Two optional post‑conference events will take place immediately after BioC2026
 - **Dates:** 13–14 August 2026
 - **Format:** In‑person
 - **Venue:** Data Science Lab, Fred Hutchinson Cancer Center
-- **Cost:** $55 USD
+- **Cost:** $50 USD plus taxes
 
 This two‑day Bioconductor Carpentry workshop focuses on large‑scale single‑cell data analysis using Bioconductor. The course combines the Carpentries' hands‑on, interactive teaching approach with Bioconductor‑specific materials and workflows.
 
