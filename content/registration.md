@@ -13,6 +13,8 @@ The conference will be held at the **Fred Hutch Cancer Center** in **Seattle, WA
 
 ## Ticket Types (USD)
 
+A new Washington State law requires a 10.55% tax to be applied to all conference registrations. The final total, including tax, will be displayed on your ticket prior to completing registration.
+
 ### In-Person Registration
 
 #### Early Registration (through **June 15, 2026**)
