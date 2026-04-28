@@ -3,117 +3,255 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-### Coming soon
 
-<!--
-+ [All short talks](../tags/short-talk/)
-+ [All workshops and package demos](../workshops/)
-+ Conference videos will appear on the [R Consortium](https://www.youtube.com/c/RConsortium) YouTube channel - subscribe!
-
-{{< schedule date="Wednesday, July 27, 2022" day="day1">}}
-{{< schedule date="Thursday, July 28, 2022" day="day2">}}
-{{< schedule date="Friday, July 29, 2022" day="day3">}}
--->
-
-<!--The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
-
-Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min, Long workshops are 90 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
-
-We will be accepting abstracts for lightning talks during the conference. Watch for announcements on the first day on how to submit. If you would like to organize a meeting around a topic, challenge, geographical area, etc. during BioC2021, please, use [this form](https://forms.gle/s73DfbXPoVRe4FKj6)
-
-
-- [All short talk abstracts](../short-talks)
-- [All poster abstracts](../posters)
-- [All workshops](../workshops), [workshop status](../workshops-status)
-
-All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 hours = Central European Summer Time, +15 hours = China Standard Time, +17 hours = Australian Eastern Standard Time. Time is presented in 24h format.
-
-## Wednesday, August 4, 2021
-
-| Time                       | Session                                     | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | YouTube                               |
-|----------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| 5:00                       | Introduction                                | Intro to workshops, Icebreaker, Social/informal welcome                                                                                                                                                                                                                       | [video](https://youtu.be/6skphXuBbd4) |
-| 6:00                       | Package   demo                              | [Octavio Morante-Palacios, et al., shinyEPICo: a graphical pipeline to   analyze Illumina DNA methylation arrays](../posts/paper10)                                                                                                                                           | [video](https://youtu.be/pYoId4RAsMY) |
-| 6:00                       | Package   demo                              | [Federico Marini, et al., GeneTonic: enjoying the interpretation of your   RNA-seq data analysis](../posts/paper55)                                                                                                                                                           | [video](https://youtu.be/lxpm3i4PNEE) |
-| 7:00                       | Long   workshop                             | [Aedin Culhane, Dimension Reduction for Beginners](../posts/paper27)                                                                                                                                                                                                          | [video](https://youtu.be/dTNMmBpizGA) |
-| 7:00                       | Long   workshop                             | [Christophe Vanderaa, et al., Reproducing a single-cell proteomics data   analysis using QFeatures and scp](../posts/paper78)                                                                                                                                                 | [video](https://youtu.be/20TxPLbyE3w) |
-| 7:00                       | Long   workshop                             | [Chloe Anya Mirzayi, et al., Epidemiology for   Bioinformaticians](../posts/paper121)                                                                                                                                                                                         | [video](https://youtu.be/k9XdqF0WbbQ) |
-| 9:00                       | Official   welcome                          | Opening remarks                                                                                                                                                                                                                                                               | [video](https://youtu.be/vpBUahIF4xw) |
-| 9:30                       | Keynote                                     | Daniela Witten, Selective inference on trees                                                                                                                                                                                                                                  | [video](https://youtu.be/rjFW4qaRPgs) |
-| 10:30                      | Short   talks                               | [Methodology and statistics](../methodology-and-statistics) track                                                                                                                                                                                                             | [video](https://youtu.be/JpeXnugheAc) |
-| 10:30                      | Short   talks                               | [Epigenomics/Gene regulation](../epigenomics-gene-regulation) track                                                                                                                                                                                                           | [video](https://youtu.be/zdHpSECaC6c) |
-| 11:30                      | Break                                       | Networking                                                                                                                                                                                                                                                                    |                                       |
-| 13:00                      | Keynote                                     | Lucia Peixoto, Reproducible Neuroscience from “omics” data analysis: a   tale of sleep and learning                                                                                                                                                                           | [video](https://youtu.be/howE6aPmOWE) |
-| 14:00                      | Package   demo                              | [Dario Righelli, et al., SpatialExperiment: infrastructure for spatially   resolved transcriptomics data in R using Bioconductor](../posts/paper65)                                                                                                                           | [video](https://youtu.be/heO-TmRO1LE) |
-| 14:00                      | Package   demo                              | [Aaron Chevalier, et al., Enhanced Deconvolution and Prediction of   Mutational Signatures](../posts/paper69)                                                                                                                                                                 | [video](https://youtu.be/tmVhpeYnQ4o) |
-| 14:00                      | Package   demo                              | [Kai Hu, Integrated ATAC-seq Analysis with ATACseqQC / Integrated   ChIP-seq Analysis with ChIPpeakAnno](../posts/paper94)                                                                                                                                                    | [video](https://youtu.be/oYcHEXqZa1Q) |
-| 15:00                      | Short   talks                               | [Transcriptomics](../transcriptomics) track                                                                                                                                                                                                                                   | [video](https://youtu.be/3xNvgPWpnxs) |
-| 15:00                      | Short   talks                               | [Single-cell genomics](../single-cell-genomics) track                                                                                                                                                                                                                         | [video](https://youtu.be/4Pw7u-cJAYA) |
-| 16:00                      | Break                                       | Networking                                                                                                                                                                                                                                                                    |                                       |
-| 17:00                      | Package   demo                              | [Mahmoud Ahmed, et al., Chromatin segmentation analysis in   R](../posts/paper90)                                                                                                                                                                                             | [video](https://youtu.be/YvhgF-qLP_I) |
-| 17:00                      | Package   demo                              | [Vincent James Carey, Integrative genetic epidemiology with OpenGWAS,   OpenCRAVAT, and Bioconductor](../posts/paper113)                                                                                                                                                      | [video](https://youtu.be/_C5dTh4ARm0) |
-| 17:00                      | Package   demo                              | [Aaron R Wolen, et al., Infinitely Scalable Data Analysis in R with   TileDB](../posts/paper49)                                                                                                                                                                               | [video](https://youtu.be/CcL-xEIcHE8) |
-| 18:00                      | Package   demo                              | [Pratheepa Jeganathan, et al., Statistical methods for microbiome data   analysis](../posts/paper85)                                                                                                                                                                          | [video](https://youtu.be/SdM37jaXVh4) |
-| 18:00                      | Package   demo                              | [Nitesh Turaga, Fast-package installation with Bioconductor package   binaries](../posts/paper76)                                                                                                                                                                             | [video](https://youtu.be/Fd4gxJWwEbM) |
-| 19:00                      | Package   demo                              | [Sean K Maden, et al., Accessing, querying, and analyzing public DNAm   array data compilations with recountmethylation](../posts/paper106)                                                                                                                                   | [video](https://youtu.be/nTysBp4fvaw) |
-| 19:00                      | Package   demo                              | [David Allen Henderson, et al., Bioconductor Infrastructure Packages for   NanoString Assay Data](../posts/paper73)                                                                                                                                                           | [video](https://youtu.be/yNqoS9Y2Sy4) |
-| 19:00                      | Package   demo                              | [Edward Zhao, et al., BayesSpace enables the robust characterization of   spatial gene expression architecture in tissue sections at increased   resolution](../posts/paper6)                                                                                                 | [video](https://youtu.be/vQRT8myi-qs) |
-
-## Thursday, August 5, 2021
-
-| Time                       | Session                                     | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | YouTube                               |
-|----------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| 6:00                       | Package   demo                              | [Denes Turei, et al., OmnipathR: one   package to access more than 100 signaling databases](../posts/paper115)                                                                                                                                                                |                                       |
-| 6:00                       | Package   demo                              | [Johannes Rainer, et al., Seamless Integration of Mass Spectrometry Data   from Different Sources with the Spectra Package](../posts/paper14)                                                                                                                                 | [video](https://youtu.be/CNvqlK3Wgx4) |
-| 6:00                       | Package   demo                              | [Eleni Adam, et al., hummingbird: A package for detecting differential   methylation](../posts/paper59)                                                                                                                                                                       | [video](https://youtu.be/0GkNxjLUx7U) |
-| 7:00                       | Long   workshop                             | [Sehyun Oh, et al., Introduction to the Terra/AnVIL Cloud-based Genomics   Platform](../posts/paper124)                                                                                                                                                                       | [video](https://youtu.be/N83iDYE2yQM) |
-| 7:00                       | Long   workshop                             | [Jenny Drnevich, et al., Building Carpentries-based Bioconductor   Lessons](../posts/paper112)                                                                                                                                                                                | [video](https://youtu.be/m4ICc1yQTyY) |
-| 7:00                       | Long   workshop                             | [Marcel Ramos, et al., Multi-omic Integration of cBioPortal and TCGA data   with MultiAssayExperiment](../posts/paper40)                                                                                                                                                      | [video](https://youtu.be/BY2BwYCHpUc) |
-| 8:45                       | Meet   the TAB                              | Meet the TAB                                                                                                                                                                                                                                                                  | [video](https://youtu.be/cmvPHuWhacg) |
-| 9:30                       | Keynote                                     | Matthew Stephens, An invitation to a multiple testing party!                                                                                                                                                                                                                  | [video](https://youtu.be/zORLq07Y5vA) |
-| 10:30                      | Short   talks                               | [Transcriptomics](../transcriptomics-) track                                                                                                                                                                                                                                  | [video](https://youtu.be/eqPD6IhbMhc) |
-| 10:30                      | Short   talks                               | [Apps and frameworks](../apps-and-frameworks) track                                                                                                                                                                                                                           | [video](https://youtu.be/3Vl0QtB5k-c) |
-| 11:30                      | Break                                       | Networking                                                                                                                                                                                                                                                                    |                                       |
-| 12:30                      | Awards                                      | Bioconductor award ceremony                                                                                                                                                                                                                                                   | [video](https://youtu.be/hOvBuJ-k1nM) |
-| 13:00                      | Keynote                                     | Gabriela de Queiroz, Building a Diverse Community: The R-Ladies Story                                                                                                                                                                                                         | [video](https://youtu.be/iufMSW_gXvM) |
-| 14:00                      | Birds-of-a-feather                          | [Nathan C. Sheffield, AnnotationHub   2.0: A new Bioconductor ecosystem for region data](../posts/paper100)                                                                                                                                                                   |                                       |
-| 14:00                      | Career panel                                |                                                                                                                                                                                                                                                                               | [video](https://youtu.be/XeyzuLMaKQM) |
-| 15:00                      | Poster   session                            | [Moderna Poster session](../posters)                                                                                                                                                                                                                                          |                                       |
-| 16:00                      | Break                                       | Networking                                                                                                                                                                                                                                                                    |                                       |
-| 17:00                      | Short   talks                               | [Epigenomics/Gene regulation](../epigenomics-gene-regulation-) track                                                                                                                                                                                                          | [video](https://youtu.be/oZ6kDZbFo18) |
-| 17:00                      | Short   talks                               | [Education and frameworks](../education-and-frameworks) track                                                                                                                                                                                                                 | [video](https://youtu.be/p6DVdZNcUmo) |
-| 18:00                      | Long   workshop                             | [Peter Hickey, Effectively using the DelayedArray framework to support   the analysis of large datasets](../posts/paper50)                                                                                                                                                    | [video](https://youtu.be/FZ8hZ4gZqTw) |
-| 18:00                      | Long   workshop                             | [James MacDonald, Introduction to Bioconductor annotation   resources](../posts/paper68)                                                                                                                                                                                      | [video](https://youtu.be/3ABBm7BZszI) |
-| 18:00                      | Long   workshop                             | [Hector Roux de Bezieux, et al., Trajectory inference across conditions:   differential expression and differential progression](../posts/paper80)                                                                                                                            | [video](https://youtu.be/SwDQFjmbZtg) |
-
-## Friday, August 6, 2021
-
-| Time                       | Session                                     | Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | YouTube                               |
-|----------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| 6:00                       | Poster   session                            | [Nanostring Poster   session](../posters)                                                                                                                                                                                                                                     |                                       |
-| 7:00                       | Short   talks                               | [Single-cell genomics](../single-cell-genomics-) track                                                                                                                                                                                                                        | [video](https://youtu.be/X6rCbXZEoPU) |
-| 7:00                       | Short   talks                               | [Proteomics/metabolomics](../proteomics-metabolomics) track                                                                                                                                                                                                                   | [video](https://youtu.be/mnfHJMKwRzc) |
-| 7:00                       | Short   talks                               | [Integrative analysis](../integrative-analysis) track                                                                                                                                                                                                                         | [video](https://youtu.be/OQ-0Aa5J4ec) |
-| 8:00                       | Package   demo                              | [Nils Eling, Visualisation of highly-multiplexed imaging data in   R](../posts/paper1)                                                                                                                                                                                        | [video](https://youtu.be/DYYuAPcBf8s) |
-| 8:00                       | Package   demo                              | [Pacome Prompsy, Interactive analysis of single-cell epigenomic   landscapes with ChromSCape](../posts/paper2)                                                                                                                                                                | [video](https://youtu.be/Illy08-W56k) |
-| 8:00                       | Package   demo                              | [Federico Agostinis, et al., NewWave, new R package for dimensional   reduction and batch effect removal for single cell RNA-seq   data](../posts/paper11)                                                                                                                    | [video](https://youtu.be/_WYS-JFdVrU) |
-| 8:45                       | Meet the core team                          |                                                                                                                                                                                                                                                                               | [video](https://youtu.be/O2WOTclMk18) |
-| 9:30                       | Keynote                                     | Amanda Haddock, Redefining the Patient's Role in the Genomics Era                                                                                                                                                                                                             | [video](https://youtu.be/OqZ44OqESlM) |
-| 10:30                      | Short   talks                               | [Infrastructure/programming](../infrastructure-programming) track                                                                                                                                                                                                             | [video](https://youtu.be/BXX-Q7HosnM) |
-| 10:30                      | Short   talks                               | [Microbiome/metagenomics](../microbiome-metagenomics) track                                                                                                                                                                                                                   | [video](https://youtu.be/Gv1ud-JG0ms) |
-| 11:30                      | Break                                       | Networking                                                                                                                                                                                                                                                                    |                                       |
-| 13:00                      | Keynote                                     | Melissa Wilson, Sex-biased genomics and methodology                                                                                                                                                                                                                           | [video](https://youtu.be/WPy3_IWa5gA) |
-| 14:00                      | Meet the CAB                                |                                                                                                                                                                                                                                                                               | [video](https://youtu.be/LTT1i_ACpxc) |
-| 15:00                      | Lightning talks                             |                                                                                                                                                                                                                                                                               | [video](https://youtu.be/nGQ6Y3GmYL4) |
-| 16:00                      | Break                                       | Networking                                                                                                                                                                                                                                                                    |                                       |
-| 17:00                      | Package   demo                              | [Lukas M Weber, et al., Orchestrating Spatially Resolved Transcriptomics   Analysis with Bioconductor (OSTA)](../posts/paper74)                                                                                                                                               | [video](https://youtu.be/dXF7Rv2UwdI) |
-| 17:00                      | Package   demo                              | [Nitesh Turaga, K8sredis: On-demand parallel computing Kubernetes   application for Bioconductor users](../posts/paper82)                                                                                                                                                     | [video](https://youtu.be/D8eNwVfLJKo) |
-| 18:00                      | Long   workshop                             | [Daniela Cassol, et al., systemPipe: Workflow and Visualization   Toolkit](../posts/paper81)                                                                                                                                                                                  | [video](https://youtu.be/_C4K7TFicDo) |
-| 18:00                      | Long   workshop                             | [Stefano Mangiola, et al., Interfacing Bioconductor with tidyverse with   tidySingleCellExperiment and tidySummarisedExperiment](../posts/paper9)                                                                                                                             | [video](https://youtu.be/kmfIFIgVwvc) |
-| 19:45                      | Closing   remarks                           | Networking                                                                                                                                                                                                                                                                    | [video](https://youtu.be/N7LCSUWYof0) |
-
-
-Change the time zone in the teamup calendar ('hamburger button' in the upper-right corner). Add this calendar to your calendar using "Preferences/iCalendar Feeds". 
-
-{{< iframe >}}
--->
+<table class="schedule-table" style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#A4C2F4;">
+    <td colspan="4" style="font-weight:bold; padding:10px; border:1px solid #ddd; background-color:#f8f9fa;">Monday, August 10</td>
+  </tr>
+  <tr >
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Time (PT)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Session</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Presenting author(s)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Title/Event</th>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakfast and Registration</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:00-9:30</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Welcome</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Vincent Carey</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#C9DAF8;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:30-10:30am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Keynote</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jeff Leek</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:30-11:00am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">11:00-12:15pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Short Talks 1</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jenny Drnevich<br><br>Nicholas P Cooley<br>David Rach<br>Apratim Mitra<br>Taylor Firman<br>Jacob Czech</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Updates and plans from the Bioconductor Training Committee: new workshop materials and offerings, Physalia collaboration, learning paths, and training in the age of AI.<br>Developer and Community Engagement: Building a Bioconductor for the future<br>Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience<br>Less Code, More Biology: Carnation for Collaborative Multi-Omics Exploration<br>WILDS WDL Library: Modular, Reproducible Bioinformatics Workflows for the Bioconductor Ecosystem<br>Architecting Reproducible AI Workflows in the Cloud using Terraform, Docker, and AWS HealthOmics</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">12:30 - 1:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lunch</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#FFF2CC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 1a</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Alexandru Mahmoud</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">WebR and Bioc2u: new binaries from the Bioconductor Core Team, and how to use them</td>
+  </tr>
+  <tr style="background-color:#FFF2CC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 1b</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ted Laderas, Jenny Drnevich</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Introduction to Bioconductor</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">3:00 - 3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#F4CCCC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">3:30-4:15pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lightning Talks</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#D9D2E9;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:15-4:45pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Champions Program</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Maria Doyle, Nick Cooley</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">5:00-7:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Poster session</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Package Demos</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Dror Berel<br><br>Sean Lu<br>Jessica K Anderson<br><br>Joanne C. Beer</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">A Modular Shiny Framework for Interactive Genomic Data Visualization leveraging the Pharmaverse/Teal dashboard framework<br>MetaScope: A High-Resolution Framework for Species-Level 16S Metataxonomic Classification<br>Reproducible Tools and Enhanced Computational Workflows for Batch Effect Evaluation of High-Throughput Data Using BatchQC<br>NULISAseqR: An R Package for End-to-End Analysis of High-Plex Proteomics Data from the NULISAseq Platform</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Posters</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Boyi Guo<br><br>Rujuta Shinde<br><br>Dany Mukesha<br><br>Tuomas Borman<br>Truong Quynh Hoa<br><br>Sedat Kacar</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex<br>Integrated Multi-Omic Analysis of Single-Nucleus RNA and Chromatin Accessibility Identifies Disrupted Epithelial Adhesion Programs in Prenatal Trisomy 21 Lung<br>Population-scale quantification of microRNA-binding disruptions at the APOE locus using 1000 Genomes allele diversity<br>Orchestrating Microbiome Analysis with Bioconductor<br>Detecting Neurovascular Instability from Multimodal Physiological Signals Using Wearable-Compatible Edge AI: A Responsible Computational Framework<br>seuratPassport: What if your single-cell object carried its own passport and family tree?</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#A4C2F4;">
+    <td colspan="4" style="font-weight:bold; padding:10px; border:1px solid #ddd; background-color:#f8f9fa;">Tuesday, August 11</td>
+  </tr>
+  <tr >
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Time (PT)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Session</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Presenting author(s)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Title/Event</th>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakfast</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#C9DAF8;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:00-10:00</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Keynote</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ting Ye</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:00 - 10:30am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:30 - 11:30am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Short talks 2</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Nicholas J Eagles<br>Yining Pan<br><br>Kinnary Shah<br>Alexandra Gerveni<br>Favour Igwezeke</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Leveraging Visium HD to its fullest: the extracellular space<br>A systematic evaluation of normalization impacts on cell-cell interaction inference in imaging-based spatial transcriptomics<br>BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection<br>Adaptive Threshold Method for Multiplet Detection in Single-Cell RNA-seq Data from Human-Mouse Mixtures<br>absuite: An R/Bioconductor Package for Antibody Repertoire Profiling and Clonotype Analysis</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">11:30-12:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">12:00 - 1:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Short Talks 3</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lauren Marie Harmon<br>Jae Min Park<br>Ji-Eun Park<br><br>Yizhou Huang<br><br>Matthew Nicholson McCall</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">burdenBalanceR: An ancestry-aware framework for rare variant burden testing across cohorts<br>BREAD: an R package for Bayesian region-specific DNA methylation inference<br>Integrative Peak Detection for Transcription Factor Binding via Joint Modeling of Protein Binding and Chromatin Accessibility Assays<br>Systematic propensity analysis of non-B-form DNA sequences in the human genome and their colocalization with structural variants across cancers<br>Preprocessing and analysis of Perturb-seq data for gene regulatory modeling</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:00 - 2:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lunch</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#FFF2CC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">2:00-3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 2a</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Vince Carey</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">ontoProc2: work with any biological ontology in Bioconductor</td>
+  </tr>
+  <tr style="background-color:#FFF2CC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">2:00-3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 2b</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lambda Moses</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Wayfarer: A multiscale framework for spatial analysis of tumor progression</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">3:30-4:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#FFF2CC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:00-5:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 3a</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Amanpreet Singh</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">repSpat: A Robust Nonparametric Framework for Detecting Repeated Spatial Patterns in Spatial Omics Data</td>
+  </tr>
+  <tr style="background-color:#FFF2CC;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 3b</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Tuomas Borman</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Orchestrating Microbiome Analysis with Bioconductor</td>
+  </tr>
+  <tr style="background-color:#A4C2F4;">
+    <td colspan="4" style="font-weight:bold; padding:10px; border:1px solid #ddd; background-color:#f8f9fa;">Wednesday, August 12</td>
+  </tr>
+  <tr >
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Time (PT)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Session</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Presenting author(s)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Title/Event</th>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakfast</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#C9DAF8;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:00-10:00</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Keynote</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Michael Lawrence</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:00 - 10:30am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:30-12:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakout sessions</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Curated from topics discussed at the first two days of the conference</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">12:00-1:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lunch</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#C9DAF8;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:00-2:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Long Talk</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ben Busby</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">2:00-2:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">2:30-3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakout sessions</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Curated from topics discussed at the first two days of the conference</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">3:30-4:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr style="background-color:#FCE5CD;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:00-4:45pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">End of day recap</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+</table>
