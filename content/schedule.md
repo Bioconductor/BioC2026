@@ -146,7 +146,7 @@ description = "Schedule"
   <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">12:00 - 1:00pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Short Talks 3</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lauren Marie Harmon<br><br></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lauren Marie Harmon</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">burdenBalanceR: An ancestry-aware framework for rare variant burden testing across cohorts</td>
   </tr>
   <tr style="background-color:#D9EAD3;">
