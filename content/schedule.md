@@ -41,8 +41,38 @@ description = "Schedule"
   <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">11:00-12:15pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Short Talks 1</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jenny Drnevich<br><br>Nicholas P Cooley<br>David Rach<br>Apratim Mitra<br>Taylor Firman<br>Jacob Czech</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Updates and plans from the Bioconductor Training Committee: new workshop materials and offerings, Physalia collaboration, learning paths, and training in the age of AI.<br>Developer and Community Engagement: Building a Bioconductor for the future<br>Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience<br>Less Code, More Biology: Carnation for Collaborative Multi-Omics Exploration<br>WILDS WDL Library: Modular, Reproducible Bioinformatics Workflows for the Bioconductor Ecosystem<br>Architecting Reproducible AI Workflows in the Cloud using Terraform, Docker, and AWS HealthOmics</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jenny Drnevich</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Updates and plans from the Bioconductor Training Committee: new workshop materials and offerings, Physalia collaboration, learning paths, and training in the age of AI</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Nicholas P Cooley</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Developer and Community Engagement: Building a Bioconductor for the future</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">David Rach</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Apratim Mitra</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Less Code, More Biology: Carnation for Collaborative Multi-Omics Exploration</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Taylor Firman</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">WILDS WDL Library: Modular, Reproducible Bioinformatics Workflows for the Bioconductor Ecosystem</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jacob Czech</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Architecting Reproducible AI Workflows in the Cloud using Terraform, Docker, and AWS HealthOmics</td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">12:30 - 1:30pm</td>
@@ -134,8 +164,32 @@ description = "Schedule"
   <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:30 - 11:30am</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Short talks 2</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Nicholas J Eagles<br>Yining Pan<br><br>Kinnary Shah<br>Alexandra Gerveni<br>Favour Igwezeke</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Leveraging Visium HD to its fullest: the extracellular space<br>A systematic evaluation of normalization impacts on cell-cell interaction inference in imaging-based spatial transcriptomics<br>BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection<br>Adaptive Threshold Method for Multiplet Detection in Single-Cell RNA-seq Data from Human-Mouse Mixtures<br>absuite: An R/Bioconductor Package for Antibody Repertoire Profiling and Clonotype Analysis</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Nicholas J Eagles</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Leveraging Visium HD to its fullest: the extracellular space</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Yining Pan</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">A systematic evaluation of normalization impacts on cell-cell interaction inference in imaging-based spatial transcriptomics</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Kinnary Shah</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Alexandra Gerveni</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Adaptive Threshold Method for Multiplet Detection in Single-Cell RNA-seq Data from Human-Mouse Mixtures</td>
+  </tr>
+  <tr style="background-color:#D9EAD3;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Favour Igwezeke</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">absuite: An R/Bioconductor Package for Antibody Repertoire Profiling and Clonotype Analysis</td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">11:30-12:00pm</td>
