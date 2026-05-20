@@ -25,6 +25,12 @@ pagerSize = 50
     weight = 10
 
 [[menu.main]]
+    identifier="venue"
+    name = "Venue Info"
+    url  = "/venue/"
+    weight = 15
+
+[[menu.main]]
     identifier="schedule"
     name = "Schedule"
     url  = "/schedule/"
