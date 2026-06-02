@@ -125,8 +125,8 @@ description = "Schedule"
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Posters</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Boyi Guo<br><br>Rujuta Shinde<br><br>Dany Mukesha<br><br>Tuomas Borman<br>Truong Quynh Hoa<br><br>Sedat Kacar</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex<br>Integrated Multi-Omic Analysis of Single-Nucleus RNA and Chromatin Accessibility Identifies Disrupted Epithelial Adhesion Programs in Prenatal Trisomy 21 Lung<br>Population-scale quantification of microRNA-binding disruptions at the APOE locus using 1000 Genomes allele diversity<br>Orchestrating Microbiome Analysis with Bioconductor<br>Detecting Neurovascular Instability from Multimodal Physiological Signals Using Wearable-Compatible Edge AI: A Responsible Computational Framework<br>seuratPassport: What if your single-cell object carried its own passport and family tree?</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Rujuta Shinde<br><br>Dany Mukesha<br><br>Tuomas Borman<br>Truong Quynh Hoa<br><br>Sedat Kacar</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Integrated Multi-Omic Analysis of Single-Nucleus RNA and Chromatin Accessibility Identifies Disrupted Epithelial Adhesion Programs in Prenatal Trisomy 21 Lung<br>Population-scale quantification of microRNA-binding disruptions at the APOE locus using 1000 Genomes allele diversity<br>Orchestrating Microbiome Analysis with Bioconductor<br>Detecting Neurovascular Instability from Multimodal Physiological Signals Using Wearable-Compatible Edge AI: A Responsible Computational Framework<br>seuratPassport: What if your single-cell object carried its own passport and family tree?</td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>

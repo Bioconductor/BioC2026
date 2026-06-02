@@ -1,4 +1,4 @@
-
+<!-- https://claude.ai/chat/8ac3fcda-43fa-46de-a7e7-f105566fda0d -->
 # Bioconductor conference template website
 
 This repository contains material for the Bioconductor annual conference. 
