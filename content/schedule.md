@@ -209,12 +209,12 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jae Min Park</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">BREAD: an R package for Bayesian region-specific DNA methylation inference</td>
   </tr>
-  <tr style="background-color:#D9EAD3;">
+  <!-- <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ji-Eun Park</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Integrative Peak Detection for Transcription Factor Binding via Joint Modeling of Protein Binding and Chromatin Accessibility Assays</td>
-  </tr>
+  </tr> -->
   <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
