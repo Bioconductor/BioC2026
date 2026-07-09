@@ -306,7 +306,7 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:00-2:00pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Long Talk</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ben Busby</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Developing technologies that meet the new scale of digital biology</td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">2:00-2:30pm</td>
