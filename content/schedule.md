@@ -14,9 +14,15 @@ description = "Schedule"
     <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Presenting author(s)</th>
     <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Title/Event</th>
   </tr>
+  <tr style="background-color:#FCE5CD;">
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:00am - 8:30am</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Welcome meet and greet</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">New attendees, members of TAB and CAB</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakfast and Registration</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Registration</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
@@ -105,13 +111,13 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
   <tr style="background-color:#D9D2E9;">
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:15-4:45pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:15-4:30pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Champions Program</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Maria Doyle, Nick Cooley</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
   <tr >
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">5:00-7:00pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:40-5:45pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Poster session</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
@@ -145,7 +151,7 @@ description = "Schedule"
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakfast</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Registration</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
@@ -179,12 +185,12 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Kinnary Shah</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection</td>
   </tr>
-  <tr style="background-color:#D9EAD3;">
+  <!-- <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Alexandra Gerveni</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Adaptive Threshold Method for Multiplet Detection in Single-Cell RNA-seq Data from Human-Mouse Mixtures</td>
-  </tr>
+  </tr> -->
   <tr style="background-color:#D9EAD3;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
@@ -274,7 +280,7 @@ description = "Schedule"
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Breakfast</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Registration</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
