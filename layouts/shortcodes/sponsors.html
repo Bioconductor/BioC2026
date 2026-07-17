@@ -1,3 +1,4 @@
+{{/*
 <div class="heading text-center">
     <h2> Platinum </h2>
 </div>
@@ -86,3 +87,31 @@
     {{end}}
   </div>
 </div>
+*/}}
+
+{{ $levels := slice "platinum" "gold" "silver" "other" }}
+{{ range $level := $levels }}
+<div class="heading text-center">
+    <h2> {{ if eq $level "other" }}Others{{ else }}{{ title $level }}{{ end }} </h2>
+</div>
+<div class="container-fluid">
+  <div class="row sponsor-row">
+    {{ range $sponsor := $.Site.Data.clients }}
+    {{ if eq $sponsor.level $level }}
+    <div class="col-xs-12 text-center sponsor-item">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <img src="{{ $sponsor.image }}" alt="{{ $sponsor.name }}" class="img-responsive center-block sponsor-logo">
+          {{ if and (eq $level "gold") $sponsor.name2 }}
+          <a href="{{ $sponsor.url }}" target="_blank" rel="noopener"> {{ $sponsor.name }} </a> &amp; <a href="{{ $sponsor.url2 }}" target="_blank" rel="noopener"> {{ $sponsor.name2 }} </a>
+          {{ else }}
+          <a href="{{ $sponsor.url }}" target="_blank" rel="noopener"> {{ $sponsor.name }} </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -3,7 +3,7 @@ title = "Sponsors"
 description = "Sponsors"
 +++
 
-<!-- {{< sponsors >}} -->
+{{< sponsors >}}
 
 <!--
 |       |

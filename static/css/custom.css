@@ -1,0 +1,19 @@
+/* Previous sponsor alignment came from the theme's carousel and grid styles. */
+
+.sponsor-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.sponsor-item {
+  float: none;
+  margin-bottom: 30px;
+}
+
+.sponsor-logo {
+  display: block;
+  margin: 0 auto 15px;
+  max-width: 100%;
+  max-height: 140px;
+}
