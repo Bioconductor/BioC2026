@@ -91,6 +91,13 @@
 
 {{ $levels := slice "platinum" "gold" "silver" "other" }}
 {{ range $level := $levels }}
+{{ $hasSponsors := false }}
+{{ range $sponsor := $.Site.Data.clients }}
+{{ if eq $sponsor.level $level }}
+{{ $hasSponsors = true }}
+{{ end }}
+{{ end }}
+{{ if $hasSponsors }}
 <div class="heading text-center">
     <h2> {{ if eq $level "other" }}Others{{ else }}{{ title $level }}{{ end }} </h2>
 </div>
@@ -114,4 +121,5 @@
     {{ end }}
   </div>
 </div>
+{{ end }}
 {{ end }}
