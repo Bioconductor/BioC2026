@@ -122,24 +122,93 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
+</table>
+
+<table class="schedule-table" style="width:100%; border-collapse: collapse;">
   <tr >
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Package Demos</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Dror Berel<br><br>Sean Lu<br>Jessica K Anderson<br><br>Joanne C. Beer</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">A Modular Shiny Framework for Interactive Genomic Data Visualization leveraging the Pharmaverse/Teal dashboard framework<br>MetaScope: A High-Resolution Framework for Species-Level 16S Metataxonomic Classification<br>Reproducible Tools and Enhanced Computational Workflows for Batch Effect Evaluation of High-Throughput Data Using BatchQC<br>NULISAseqR: An R Package for End-to-End Analysis of High-Plex Proteomics Data from the NULISAseq Platform</td>
+    <th colspan="2" style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Package Demos</th>
   </tr>
   <tr >
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Posters</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Rujuta Shinde<br><br>Dany Mukesha<br><br>Tuomas Borman<br>Truong Quynh Hoa<br><br>Sedat Kacar</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Integrated Multi-Omic Analysis of Single-Nucleus RNA and Chromatin Accessibility Identifies Disrupted Epithelial Adhesion Programs in Prenatal Trisomy 21 Lung<br>Population-scale quantification of microRNA-binding disruptions at the APOE locus using 1000 Genomes allele diversity<br>Orchestrating Microbiome Analysis with Bioconductor<br>Detecting Neurovascular Instability from Multimodal Physiological Signals Using Wearable-Compatible Edge AI: A Responsible Computational Framework<br>seuratPassport: What if your single-cell object carried its own passport and family tree?</td>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Presenting author(s)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Title/Event</th>
   </tr>
   <tr >
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Dror Berel</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">A Modular Shiny Framework for Interactive Genomic Data Visualization leveraging the Pharmaverse/Teal dashboard framework</td>
   </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Sean Lu</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">MetaScope: A High-Resolution Framework for Species-Level 16S Metataxonomic Classification</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jessica K Anderson</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Reproducible Tools and Enhanced Computational Workflows for Batch Effect Evaluation of High-Throughput Data Using BatchQC</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Joanne C. Beer</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">NULISAseqR: An R Package for End-to-End Analysis of High-Plex Proteomics Data from the NULISAseq Platform</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Hervé Pagès</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">igblastr: A User-Friendly R/Bioconductor Wrapper to IgBLAST</td>
+  </tr>
+</table>
+
+<table class="schedule-table" style="width:100%; border-collapse: collapse;">
+  <tr >
+    <th colspan="2" style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Posters</th>
+  </tr>
+  <tr >
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Presenting author(s)</th>
+    <th style="font-weight:bold; background-color:#eee; border:1px solid #ddd; padding:8px;">Title/Event</th>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Rujuta Shinde</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Integrated Multi-Omic Analysis of Single-Nucleus RNA and Chromatin Accessibility Identifies Disrupted Epithelial Adhesion Programs in Prenatal Trisomy 21 Lung</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Dany Mukesha</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Population-scale quantification of microRNA-binding disruptions at the APOE locus using 1000 Genomes allele diversity</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Tuomas Borman</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Orchestrating Microbiome Analysis with Bioconductor</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Truong Quynh Hoa</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Detecting Neurovascular Instability from Multimodal Physiological Signals Using Wearable-Compatible Edge AI: A Responsible Computational Framework</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Sedat Kacar</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">seuratPassport: What if your single-cell object carried its own passport and family tree?</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Abdelouahab Dehimat</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Integrating Single-Cell and Spatial Transcriptomics in R to Map Oncofetal Reprogramming Across Primary and Metastatic Colorectal Cancer Niches</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Lucia Williams</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">PTMsToPathways: An R Package to Turn Post-Translational Modification Data Into Networks to Outline Cell Signaling Pathways</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Dr. Chirag Parsania</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">BamScale: Bioconductor-Friendly Multithreaded BAM Processing</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Astrid Deschênes</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Translating functional enrichment results into visual biological networks via the Bioconductor enrichViewNet package</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Pascal Belleau</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Update on robust ancestry inference from challenging human molecular data with the Bioconductor RAIDS package</td>
+  </tr>
+  <tr >
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Rakin Khan</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">AI-Guided Optimization and Structure-Based Virtual Screening Identify Novel Dual-State KRAS G12D Candidate Binders</td>
+  </tr>
+</table>
+
+<table class="schedule-table" style="width:100%; border-collapse: collapse;">
   <tr style="background-color:#A4C2F4;">
     <td colspan="4" style="font-weight:bold; padding:10px; border:1px solid #ddd; background-color:#f8f9fa;">Tuesday, August 11</td>
   </tr>
