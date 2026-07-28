@@ -16,7 +16,7 @@ description = "Schedule"
   </tr>
   <tr style="background-color:#FCE5CD;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:00am - 8:30am</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Welcome meet and greet</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Welcome & meet-and-greet</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">New attendees, members of TAB and CAB</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
@@ -220,9 +220,9 @@ description = "Schedule"
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">8:30am - 9:00am</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Registration</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Registration & meet-and-greet</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Registration and Student-ECR Council meet-and-greet/live Q&A</td>
   </tr>
   <tr style="background-color:#C9DAF8;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:00-10:00</td>
