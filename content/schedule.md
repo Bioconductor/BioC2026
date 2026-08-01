@@ -87,13 +87,13 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
   <tr style="background-color:#FFF2CC;">
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:00pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 1a</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Alexandru Mahmoud</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">WebR and Bioc2u: new binaries from the Bioconductor Core Team, and how to use them</td>
   </tr>
   <tr style="background-color:#FFF2CC;">
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:30pm</td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:00pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 1b</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ted Laderas, Jenny Drnevich</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Introduction to Bioconductor</td>
