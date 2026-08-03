@@ -17,3 +17,9 @@
   max-width: 100%;
   max-height: 140px;
 }
+
+.sponsor-popup-trigger {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}

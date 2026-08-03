@@ -1,0 +1,7 @@
+name: "Cortex"
+image: "/img/clients/cortex-black.png"
+url: "https://www.cortexbiolabs.com"
+level: "gold"
+description: "CORTEX is knowledge infrastructure for reproducible science. A result is only as reusable as the context around it, that is, the conditions and reasoning that produced it, which rarely make it into the data. CORTEX unifies a lab's scattered data into one queryable base and captures that context with it, tracking provenance from raw input to reported value. Work stays reproducible long after it was generated, and remains legible to both people and machines. CORTEX is designed to work alongside the tools and data structures a lab already uses. We are piloting with labs in academia and industry, including at Stanford."
+# name2: "Biogen"
+# url2: "https://www.biogen.com/"

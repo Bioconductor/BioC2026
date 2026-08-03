@@ -114,6 +114,9 @@
           {{ else }}
           <a href="{{ $sponsor.url }}" target="_blank" rel="noopener"> {{ $sponsor.name }} </a>
           {{ end }}
+          {{ if $sponsor.description }}
+          <p class="sponsor-description">{{ $sponsor.description }}</p>
+          {{ end }}
         </div>
       </div>
     </div>
