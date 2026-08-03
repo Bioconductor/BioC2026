@@ -36,7 +36,7 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:30-10:30am</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Keynote</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Jeff Leek</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Building Open Infrastructure for Translational AI in a Cancer Center</td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:30-11:00am</td>
