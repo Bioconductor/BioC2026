@@ -389,7 +389,7 @@ The RAIDS package is available on Bioconductor: https://bioconductor.org/package
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">9:00-10:00</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Keynote</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Michael Lawrence</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">S7 for Bioconductor</td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">10:00 - 10:30am</td>
