@@ -96,7 +96,7 @@ description = "Schedule"
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">1:30 - 3:00pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Workshop 1b</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Ted Laderas, Jenny Drnevich</td>
-    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"><details><summary style="text-decoration:underline; color:#1155cc; cursor:pointer;">Introduction to Bioconductor</summary><div style="margin-top:6px; font-weight:normal;">(No abstract text available)</div></details></td>
+    <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"><details><summary style="text-decoration:underline; color:#1155cc; cursor:pointer;">Introduction to Bioconductor</summary><div style="margin-top:6px; font-weight:normal;">This workshop gives a quick overview of the Bioconductor project, particularly the shared infrastructure that facilitates inter-operability between Bioconductor packages. The hands-on part will explore one of the most commonly-used S4 objects, a SummarizedExperiment. We will review it’s structure, how to manipulate it and make figures, and how to construct one from your own data. Finally, we will briefly explore the Bioconductor package repository and learn how to install Bioconductor on your own computer.</div></details></td>
   </tr>
   <tr >
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">3:00 - 3:30pm</td>
