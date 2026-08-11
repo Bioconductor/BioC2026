@@ -346,6 +346,9 @@ The RAIDS package is available on Bioconductor: https://bioconductor.org/package
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
   </tr>
+  <tr>
+    <td colspan="4" style="border:1px solid #ddd; padding:8px; vertical-align:top;"><a href="https://app.sli.do/event/2rKN5ohywBmJ6nUbwAFDAy/live/polls" target="_blank" rel="noopener noreferrer">Sign up for the 2pm workshops</a></td>
+  </tr>
   <tr style="background-color:#FFF2CC;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">2:00-3:30pm</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"><a href="https://hutchdatascience.org/bioc2026Intro/articles/OrchestraPlatform.html" target="_blank" rel="noopener noreferrer">Workshop 2a</a></td>
@@ -363,6 +366,9 @@ The RAIDS package is available on Bioconductor: https://bioconductor.org/package
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">Break</td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;"></td>
+  </tr>
+  <tr>
+    <td colspan="4" style="border:1px solid #ddd; padding:8px; vertical-align:top;"><a href="https://app.sli.do/event/wvFtaP6t3ofHsE6pv79cti/live/polls" target="_blank" rel="noopener noreferrer">Sign up for the 4pm workshops</a></td>
   </tr>
   <tr style="background-color:#FFF2CC;">
     <td style="border:1px solid #ddd; padding:8px; vertical-align:top;">4:00-5:30pm</td>
