@@ -151,6 +151,12 @@ pagerSize = 50
     url = "https://www.linkedin.com/company/bioconductor"
     pre = "<i class='fab fa-2x fa-linkedin'></i>"
 
+[[menu.topbar]]
+    weight = 7
+    name = "YouTube"
+    url = "https://www.youtube.com/@bioconductor"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
