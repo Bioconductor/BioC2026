@@ -3,7 +3,7 @@ title = "Post‑conference events"
 description = "Post‑conference events"
 +++
 
-Two optional post‑conference events will take place immediately after BioC2026: a Bioconductor Carpentry workshop and a hackathon. Participants should plan to attend **either** the workshop **or** the hackathon, as the events will run in parallel.
+Two optional post‑conference events took place immediately after BioC2026: a Bioconductor Carpentry workshop and a hackathon. The events ran in parallel.
 
 ---
 
@@ -16,7 +16,7 @@ Two optional post‑conference events will take place immediately after BioC2026
 
 This two‑day Bioconductor Carpentry workshop focuses on large‑scale single‑cell data analysis using Bioconductor. The course combines the Carpentries' hands‑on, interactive teaching approach with Bioconductor‑specific materials and workflows.
 
-Participants will learn how to:
+Participants learned how to:
 
 - work with core Bioconductor data structures,
 - perform single‑cell RNA‑seq analyses using established workflows,
@@ -24,15 +24,15 @@ Participants will learn how to:
 
 **Prerequisites:**
 
-Participants are expected to have prior experience with R and basic familiarity with Bioconductor.
+Participants were expected to have prior experience with R and basic familiarity with Bioconductor.
 
 **Registration:**
 
-Registration is now open. Please complete the application and payment using the link below:
+Registration is closed.
 
-👉 [Workshop registration form](https://docs.google.com/forms/d/e/1FAIpQLSesyVJDPFVYC0XFcEamo868NKYhdZ17oz8Hys1WTRFZIWSxxA/viewform)
+<!-- 👉 [Workshop registration form](https://docs.google.com/forms/d/e/1FAIpQLSesyVJDPFVYC0XFcEamo868NKYhdZ17oz8Hys1WTRFZIWSxxA/viewform) -->
 
-*Note: The registration form contains the payment link. Places are confirmed only once payment has been received.*
+<!-- *Note: The registration form contains the payment link. Places are confirmed only once payment has been received.* -->
 
 ---
 
@@ -44,31 +44,30 @@ Registration is now open. Please complete the application and payment using the 
 - **Cost:** Free
 - **Hackathon leads:** Nicholas Cooley, Lori Shepherd
 
-A Bioconductor- and R‑centric hackathon will be held over two days following the conference.
+A Bioconductor- and R‑centric hackathon was held over two days following the conference.
 
-Participants will collaborate on:
+Participants collaborated on:
 
 - developing or extending Bioconductor packages,
 - improving documentation and workflows,
 - or contributing to community‑identified project ideas.
 
-Contributors from all career stages and technical backgrounds are encouraged to participate.
+Contributors from all career stages and technical backgrounds were encouraged to participate.
 
 
 **Participation / registration:**
 
-If you are interested in participating in the hackathon, please complete the hackathon interest form:
+Registration is closed.
 
-👉 [Hackathon registration form](https://forms.gle/7jsVrEnhp74dBrXMA)
+<!-- 👉 [Hackathon registration form](https://forms.gle/7jsVrEnhp74dBrXMA) -->
 
 **Further information:**
 
-A GitHub page is being used as a hub for hackathon project ideas and background materials. Prospective participants are welcome to browse existing proposals or suggest their own projects:
+A GitHub page serves as a hub for hackathon project ideas and background materials:
 
 [Hackathon GitHub](https://github.com/BiocCodingCollaborations/BiocNA2026_Hackathon)
 
 
 ## Requirements
 
-Participants should bring a laptop with R and relevant packages installed.  
-Further setup instructions will be shared with registered participants in advance.
+Participants brought a laptop with R and relevant packages installed.
